@@ -1,0 +1,2 @@
+Trivy scan report will be saved here after Stage 3.1
+Run: trivy image --severity CRITICAL,HIGH fest-backend:0.1 > reports/trivy-before.txt
